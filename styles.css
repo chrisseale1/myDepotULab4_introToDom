@@ -1,0 +1,15 @@
+@import scripts.js;
+
+.box {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    color: white;
+    line-height: 50px;
+    margin: 10px 5px 0px 5px;
+    display: inline-block;
+    
+}
